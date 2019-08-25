@@ -1,0 +1,11 @@
+#commands and output
+
+> g++ 19mcmt26_lab_1.c                                                ⏎
+> ./a.out 
+
+Output:
+
+Value of n with O(n) complexity in 1 second is:  1113513
+Value of n with O(n^2) complexity in 1 second is:  1496
+Value of n with O(n^3) complexity in 1 second is:  151
+Value of n with O(2^n) complexity in 1 second is:  20
